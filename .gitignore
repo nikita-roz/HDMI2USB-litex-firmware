@@ -1,0 +1,10 @@
+__pycache__
+*.pyc
+*.egg-info
+*.vcd
+outgoing
+build
+*~
+*.png
+third_party/qemu-litex
+third_party/micropython
